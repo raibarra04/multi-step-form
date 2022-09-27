@@ -1,5 +1,3 @@
 # Multi-form page
 
-### `npm start`
-
-run the project locally
+### Use `npm start` to run the project locally
